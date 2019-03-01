@@ -1,3 +1,3 @@
 "hello world"
 
-@greeting = hello_world
+@greeting_test = hello_world
